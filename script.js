@@ -6,7 +6,7 @@ const expertiseItems = document.querySelectorAll('.expertise-item');
 const projectItems = document.querySelectorAll('.project-item');
 const connectLinks = document.querySelectorAll('.connect-link');
 
-// Smooth Scroll for Navigation
+// Smooth Scroll for Navigation New
 navLinks.forEach(link => {
     link.addEventListener('click', (e) => {
         e.preventDefault();
